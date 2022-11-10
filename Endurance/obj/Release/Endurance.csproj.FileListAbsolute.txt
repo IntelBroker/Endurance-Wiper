@@ -1,0 +1,5 @@
+C:\Users\vboxuser\Desktop\wiper\Endurance\Wiper\Endurance\obj\Release\Endurance.csproj.AssemblyReference.cache
+C:\Users\vboxuser\Desktop\wiper\Endurance\Wiper\Endurance\obj\Release\Endurance.csproj.SuggestedBindingRedirects.cache
+C:\Users\vboxuser\Desktop\wiper\Endurance\Wiper\Endurance\obj\Release\Endurance.Properties.Resources.resources
+C:\Users\vboxuser\Desktop\wiper\Endurance\Wiper\Endurance\obj\Release\Endurance.csproj.GenerateResource.cache
+C:\Users\vboxuser\Desktop\wiper\Endurance\Wiper\Endurance\obj\Release\Endurance.csproj.CoreCompileInputs.cache
