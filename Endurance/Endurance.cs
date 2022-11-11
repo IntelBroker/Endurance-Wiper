@@ -349,7 +349,7 @@ namespace Main
                     RandomFileName = Path.GetRandomFileName();
 
                     DateTime Start;
-                    Start = new DateTime(1995, 1, 1);
+                    Start = new DateTime(1999, 1, 1);
                     Int32 Range;
                     Range = (DateTime.Today - Start).Days;
                     DateTime RandomDateTime;
