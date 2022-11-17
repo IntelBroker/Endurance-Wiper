@@ -1,5 +1,9 @@
-# Endurance-Wiper
+# Endurance-Wiper Beta - Open Source
 A small wiper malware written in C# using the .NET framework.
+If you are from Twitter or any other source, you can clearly tell this is in active development.
+You are free to check the updates here.
+
+https://breached.vc/Thread-active-development-custom-wiper-ransomware
 
 # Requirements
 * Visual Studio 22
@@ -17,4 +21,4 @@ A small wiper malware written in C# using the .NET framework.
 4. Output file will be located in /bin/Debug/
 
 # Credits
-IntelBroker @ breachedforums.to
+IntelBroker @ breached.vc
